@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
-	github.com/khulnasoft-labs/fastdialer v0.0.35
+	github.com/khulnasoft-labs/fastdialer v0.0.36
 	github.com/khulnasoft-labs/gologger v1.1.11
 	github.com/khulnasoft-labs/retryablehttp-go v1.0.19
 	github.com/khulnasoft-labs/stringsutil v0.0.2
@@ -28,8 +28,8 @@ require (
 	github.com/gorilla/css v1.0.0 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/khulnasoft-labs/blackrock v0.0.1 // indirect
-	github.com/khulnasoft-labs/hmap v0.0.13 // indirect
-	github.com/khulnasoft-labs/networkpolicy v0.0.6 // indirect
+	github.com/khulnasoft-labs/hmap v0.0.15 // indirect
+	github.com/khulnasoft-labs/networkpolicy v0.0.7 // indirect
 	github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e // indirect
 	github.com/klauspost/compress v1.16.6 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible // indirect
