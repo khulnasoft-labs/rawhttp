@@ -60,8 +60,8 @@ github.com/khulnasoft-labs/networkpolicy v0.0.7 h1:SGbp2pw/YeJd1Q9K/yTQ1EBjbQx0X
 github.com/khulnasoft-labs/networkpolicy v0.0.7/go.mod h1:wIkzSBwqfZMavDgIzSJZp7TiUic5PA4V7fXgR07rXwo=
 github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e h1:hgdtqOblqeHfuTjmXbINd8zlbNTDiW/2hZoyGxKXiKE=
 github.com/khulnasoft-labs/retryabledns v0.0.0-20230722104401-745c1d25618e/go.mod h1:/F+cpN1Yey9K7eO21gtDBcGv7a4CtZuXw2uVs2WKYfk=
-github.com/khulnasoft-labs/retryablehttp-go v1.0.19 h1:jzmjm+PlnhqMqyfKR0aqB/45/ONioVUAHOFWztGr7IA=
-github.com/khulnasoft-labs/retryablehttp-go v1.0.19/go.mod h1:b8VgQpDesWX/nDbOlYJKu2hPSiTOeaNENBd55gycQMY=
+github.com/khulnasoft-labs/retryablehttp-go v1.0.20 h1:VloQve1N/5I5v4G4y3/14JX4JxloS2YCTpRUSA0ePQ0=
+github.com/khulnasoft-labs/retryablehttp-go v1.0.20/go.mod h1:jdcLrxkQGrFIkdCZkmFMAPLaw9KThdeKA2CmuI7JzQQ=
 github.com/khulnasoft-labs/stringsutil v0.0.2 h1:1TTbZvKkOfuTIzZ4L6Bil16QU3/LdFVzuZT1TntgOPE=
 github.com/khulnasoft-labs/stringsutil v0.0.2/go.mod h1:tQaW/6fvQ/rKAtzG8Zh6B19H9xlHRb0HuTez7Cj1+A8=
 github.com/khulnasoft-labs/utils v0.0.45 h1:27tqzQqwMWN4mVw18oexYzejfNW8/ApENWHFwawCNmY=

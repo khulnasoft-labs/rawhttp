@@ -6,7 +6,7 @@ require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/khulnasoft-labs/fastdialer v0.0.36
 	github.com/khulnasoft-labs/gologger v1.1.11
-	github.com/khulnasoft-labs/retryablehttp-go v1.0.19
+	github.com/khulnasoft-labs/retryablehttp-go v1.0.20
 	github.com/khulnasoft-labs/stringsutil v0.0.2
 	github.com/khulnasoft-labs/utils v0.0.45
 	github.com/remeh/sizedwaitgroup v1.0.0
