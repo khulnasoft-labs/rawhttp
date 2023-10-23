@@ -8,7 +8,7 @@ require (
 	github.com/khulnasoft-labs/gologger v1.1.11
 	github.com/khulnasoft-labs/retryablehttp-go v1.0.20
 	github.com/khulnasoft-labs/stringsutil v0.0.2
-	github.com/khulnasoft-labs/utils v0.0.45
+	github.com/khulnasoft-labs/utils v0.0.46
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/net v0.17.0
