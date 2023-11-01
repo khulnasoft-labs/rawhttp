@@ -1,8 +1,6 @@
 module github.com/khulnasoft-lab/rawhttp
 
-go 1.21
-
-toolchain go1.21.3
+go 1.18
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
