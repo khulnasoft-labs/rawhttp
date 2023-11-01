@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/khulnasoft-labs/fastdialer/fastdialer"
-	"github.com/khulnasoft-labs/rawhttp/client"
-	"github.com/khulnasoft-labs/rawhttp/proxy"
+	"github.com/khulnasoft-lab/fastdialer/fastdialer"
+	"github.com/khulnasoft-lab/rawhttp/client"
+	"github.com/khulnasoft-lab/rawhttp/proxy"
 )
 
 // Dialer can dial a remote HTTP server.

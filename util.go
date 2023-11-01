@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/khulnasoft-labs/rawhttp/client"
-	urlutil "github.com/khulnasoft-labs/utils/url"
+	"github.com/khulnasoft-lab/rawhttp/client"
+	urlutil "github.com/khulnasoft-lab/utils/url"
 )
 
 // StatusError is a HTTP status error object

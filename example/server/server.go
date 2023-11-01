@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/khulnasoft-labs/gologger"
+	"github.com/khulnasoft-lab/gologger"
 )
 
 func headers(w http.ResponseWriter, req *http.Request) {

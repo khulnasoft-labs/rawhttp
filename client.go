@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khulnasoft-labs/fastdialer/fastdialer"
-	"github.com/khulnasoft-labs/gologger"
-	retryablehttp "github.com/khulnasoft-labs/retryablehttp-go"
-	urlutil "github.com/khulnasoft-labs/utils/url"
+	"github.com/khulnasoft-lab/fastdialer/fastdialer"
+	"github.com/khulnasoft-lab/gologger"
+	retryablehttp "github.com/khulnasoft-lab/retryablehttp-go"
+	urlutil "github.com/khulnasoft-lab/utils/url"
 )
 
 // Client is a client for making raw http requests with go

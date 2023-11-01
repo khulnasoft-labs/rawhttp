@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http/httputil"
 
-	"github.com/khulnasoft-labs/rawhttp"
+	"github.com/khulnasoft-lab/rawhttp"
 )
 
 var (

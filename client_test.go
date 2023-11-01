@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/khulnasoft-labs/stringsutil"
+	"github.com/khulnasoft-lab/stringsutil"
 )
 
 func getTestHttpServer(timeout time.Duration) *httptest.Server {
@@ -20,7 +20,7 @@ func getTestHttpServer(timeout time.Duration) *httptest.Server {
 	return ts
 }
 
-// run with go test -timeout 45s -run ^TestDialDefaultTimeout$ github.com/khulnasoft-labs/rawhttp
+// run with go test -timeout 45s -run ^TestDialDefaultTimeout$ github.com/khulnasoft-lab/rawhttp
 func TestDialDefaultTimeout(t *testing.T) {
 	timeout := 30 * time.Second
 	ts := getTestHttpServer(45 * time.Second)

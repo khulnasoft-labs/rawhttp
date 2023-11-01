@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	retryablehttp "github.com/khulnasoft-labs/retryablehttp-go"
+	retryablehttp "github.com/khulnasoft-lab/retryablehttp-go"
 )
 
 // DefaultClient is the default HTTP client for doing raw requests

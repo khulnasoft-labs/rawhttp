@@ -4,9 +4,9 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/khulnasoft-labs/rawhttp/clientpipeline"
-	retryablehttp "github.com/khulnasoft-labs/retryablehttp-go"
-	urlutil "github.com/khulnasoft-labs/utils/url"
+	"github.com/khulnasoft-lab/rawhttp/clientpipeline"
+	retryablehttp "github.com/khulnasoft-lab/retryablehttp-go"
+	urlutil "github.com/khulnasoft-lab/utils/url"
 )
 
 // PipelineClient is a client for making pipelined http requests

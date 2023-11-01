@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/khulnasoft-labs/rawhttp"
+	"github.com/khulnasoft-lab/rawhttp"
 	"github.com/remeh/sizedwaitgroup"
 )
 

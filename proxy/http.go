@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/khulnasoft-labs/fastdialer/fastdialer"
-	"github.com/khulnasoft-labs/rawhttp/client"
+	"github.com/khulnasoft-lab/fastdialer/fastdialer"
+	"github.com/khulnasoft-lab/rawhttp/client"
 )
 
 func HTTPDialer(proxyAddr string, timeout time.Duration) DialFunc {

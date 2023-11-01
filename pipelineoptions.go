@@ -3,7 +3,7 @@ package rawhttp
 import (
 	"time"
 
-	"github.com/khulnasoft-labs/rawhttp/clientpipeline"
+	"github.com/khulnasoft-lab/rawhttp/clientpipeline"
 )
 
 // PipelineOptions contains options for pipelined http client

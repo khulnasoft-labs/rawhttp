@@ -7,7 +7,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/khulnasoft-labs/rawhttp/client"
+	"github.com/khulnasoft-lab/rawhttp/client"
 )
 
 var (

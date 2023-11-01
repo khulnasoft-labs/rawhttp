@@ -3,8 +3,8 @@ package rawhttp
 import (
 	"time"
 
-	"github.com/khulnasoft-labs/fastdialer/fastdialer"
-	"github.com/khulnasoft-labs/rawhttp/client"
+	"github.com/khulnasoft-lab/fastdialer/fastdialer"
+	"github.com/khulnasoft-lab/rawhttp/client"
 )
 
 // Options contains configuration options for rawhttp client
