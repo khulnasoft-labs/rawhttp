@@ -1,13 +1,15 @@
 module github.com/khulnasoft-lab/rawhttp
 
-go 1.18
+go 1.21
+
+toolchain go1.23.4
 
 require (
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/khulnasoft-lab/fastdialer v0.0.37
 	github.com/khulnasoft-lab/gologger v1.1.13
 	github.com/khulnasoft-lab/retryablehttp-go v1.0.21
-	github.com/khulnasoft-lab/stringsutil v0.0.3
+	github.com/khulnasoft-lab/stringsutil v0.0.4
 	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/remeh/sizedwaitgroup v1.0.0
 	github.com/stretchr/testify v1.8.4

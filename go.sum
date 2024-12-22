@@ -81,6 +81,8 @@ github.com/khulnasoft-lab/retryablehttp-go v1.0.21 h1:n1prYzHTtt8qrdwl0JGZp0/Ucf
 github.com/khulnasoft-lab/retryablehttp-go v1.0.21/go.mod h1:7jCK/2UwD9d8LTCRiCZ3PqmPqY8m/PefIA8gMEc0T10=
 github.com/khulnasoft-lab/stringsutil v0.0.3 h1:mZyGsHx1tKxP5QhtsM/NFaokOuQgM6nc3ACNT83Xet4=
 github.com/khulnasoft-lab/stringsutil v0.0.3/go.mod h1:So7czedSDwk2jvh3OraDyB2K8CC4TKoJFiUsMr2bJeY=
+github.com/khulnasoft-lab/stringsutil v0.0.4 h1:ngSEJazfWpsQOnBSitTTmDGEcmpigvLr/es22HwuAs0=
+github.com/khulnasoft-lab/stringsutil v0.0.4/go.mod h1:So7czedSDwk2jvh3OraDyB2K8CC4TKoJFiUsMr2bJeY=
 github.com/khulnasoft-lab/utils v0.0.47 h1:ILZWJ5mS696XnQC4vuizNnYZAf9sd9ZY4xuST8y8dtY=
 github.com/khulnasoft-lab/utils v0.0.47/go.mod h1:4nuOcyrid0Br7/nwZvMQoha0tCiH3LAmWsD8a+2ufDs=
 github.com/klauspost/compress v1.4.1/go.mod h1:RyIbtBH6LamlWaDj8nUwkbUhJ87Yi3uG0guNDohfE1A=
